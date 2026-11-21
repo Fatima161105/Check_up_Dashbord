@@ -103,4 +103,4 @@ Apache Superset (datasets, Big Number with time comparison, time-series, native 
 ---
 
 ## Структура репозитория
-- `[index.html][https://superset.simulative.ru/superset/dashboard/p/QeyGzRNeGoK/](https://drive.google.com/file/d/1R5yx4VZuR-mU7pfFiXuqFL_fdDjBlZx9/view?usp=sharing)` —  дашборд в формате pdf, в хорошем качестве
+- [`dachbord.pdf`](https://drive.google.com/file/d/1R5yx4VZuR-mU7pfFiXuqFL_fdDjBlZx9/view?usp=sharing) —  дашборд в формате pdf, в хорошем качестве
